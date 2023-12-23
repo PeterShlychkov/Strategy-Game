@@ -37,9 +37,6 @@ public class main : MonoBehaviour
     private int[] ironX;
     private int[] ironY;
 
-    /*public int width;
-    public int height;*/
-
     public int width = 20;
     public int height = 20;
 
@@ -49,14 +46,8 @@ public class main : MonoBehaviour
     public int[,] tile; //Water 0. Desert 1. Meadow 2. Forest 3.
     public int[,] addon; //Empty 0. Mountain 1. Iron 0.
 
-    /*public int[,] tile = new int[20, 20]; //Water 0. Desert 1. Meadow 2. Forest 3.
-    public int[,] addon = new int[20, 20]; //Empty 0. Mountain 1. Iron 0.*/
-
     public void mainStart()
     {
-        /*width = tile.GetLength(0);
-        height = tile.GetLength(1);*/
-
         desertX = new int[desertCount];
         desertY = new int[desertCount];
         desertRadius = new int[desertCount];
