@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class structures : MonoBehaviour
+public class Structures : MonoBehaviour
 {
     public GameObject city;
 
