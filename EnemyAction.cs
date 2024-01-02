@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class enemyAction : MonoBehaviour
+public class EnemyAction : MonoBehaviour
 {
     public GameObject enemyUnit;
     public GameObject enemyBuilder;
