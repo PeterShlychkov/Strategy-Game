@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class units : MonoBehaviour
+public class Units : MonoBehaviour
 {
     public GameObject unit0;
     public GameObject builder;
