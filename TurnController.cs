@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class turnController : MonoBehaviour
+public class TurnController : MonoBehaviour
 {
     bool playerTurn = true;
 
